@@ -2,34 +2,36 @@
 
 <div align="center" style="text-align: center;">
 
-![logo](https://raw.githubusercontent.com/minamarkham/yonce-visual-studio/master/images/logotype.png)
+![logo](https://raw.githubusercontent.com/thegixo/yue-visual-studio/master/images/logotype.png)
 
-A Queen Bey-inspired theme for Visual Studio.
+A fork of [Yoncé](https://marketplace.visualstudio.com/items?itemName=minamarkham.yonce-theme) theme by Mina Markham changed to be more coherent with Unreal Engine's theme.
+
+[![vscode](https://img.shields.io/badge/vscode-v1.27+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_27)
 
 </div>
 
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-visual-studio/master/images/editor.png)
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-visual-studio/master/images/workbench.png)
-> The font in the screenshot is `Dank Mono`. From £40. https://dank.sh
+![theme preview](https://raw.githubusercontent.com/thegixo/yue-visual-studio/master/images/editor.png)
+![theme preview](https://raw.githubusercontent.com/thegixo/yue-visual-studio/master/images/workbench.png)
+
 
 <br>
 
 ## Screenshots
 
 #### CSS
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-visual-studio/master/images/css.png)
+![theme preview](https://raw.githubusercontent.com/thegixo/yue-visual-studio/master/images/css.png)
 
 #### JavaScript/JSX
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-visual-studio/master/images/jsx.png)
+![theme preview](https://raw.githubusercontent.com/thegixo/yue-visual-studio/master/images/jsx.png)
 
 #### PHP
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-visual-studio/master/images/php.png)
+![theme preview](https://raw.githubusercontent.com/thegixo/yue-visual-studio/master/images/php.png)
 
 #### Markdown
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-visual-studio/master/images/markdown.png)
+![theme preview](https://raw.githubusercontent.com/thegixo/yue-visual-studio/master/images/markdown.png)
 
 #### Shell
-![theme preview](https://raw.githubusercontent.com/minamarkham/yonce-visual-studio/master/images/shell.png)
+![theme preview](https://raw.githubusercontent.com/thegixo/yue-visual-studio/master/images/shell.png)
 
 _You can test various syntax highlighting in this repo: [https://github.com/uloco/syntax-highlighting-samples](https://github.com/uloco/syntax-highlighting-samples)_
 
@@ -37,35 +39,20 @@ _You can test various syntax highlighting in this repo: [https://github.com/uloc
 
 Following extensions/tools are recommended for this theme:
 
-- [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) - For file icons. Used in the screenshot.
-- [Dank Mono](https://dank.sh) - Coding font for 40£. Used in the screenshot.
-- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Alternative file icons.
-- [Operator Mono](https://www.typography.com/blog/introducing-operator) - Another coding font, if you can spend $200.
-
-Also note the recommended user settings.
-
-```json
-{
-    // Controls the font family.
-    "editor.fontFamily": "Dank Mono",
-    // Enables font ligatures
-    "editor.fontLigatures": true,
-    // Adds icons to files
-    "workbench.iconTheme": "file-icons",
-}
-```
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - For file icons. Used in the screenshot.
 
 ## Installation
-* **Recommended:** This theme is available for free in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=minamarkham.minamarkham-yonce-vsix).
+* **Recommended:** This theme is available for free in the Visual Studio Marketplace and can be installed by openning manage extensions in Visual Studio and typing `yue`.
+* **Alternative method:** Clone this repo and install using yue.vsix file.
 
 ## Contributing
 
-Found something strange? Please report [here](https://github.com/minamarkham/yonce-visual-studio/issues).
+Found something strange? Please report [here](https://github.com/thegixo/yue-visual-studio/issues).
 
-Love this theme? Put some respeck on my check. Or [pay me in cupcakes](https://cash.me/$MinaMarkham).
+Love this theme? [Pay Mina Markham in cupcakes](https://cash.me/$MinaMarkham).
 
 ## License
 
-This theme is released under the [MIT License](https://github.com/minamarkham/yonce-visual-studio/blob/master/LICENSE).
+This theme is released under the [MIT License](https://github.com/thegixo/yue-visual-studio/blob/master/LICENSE).
 
-Designed with ❤️ by **[Mina](https://github.com/minamarkham)**
+Re-designed by **[Gixo](https://github.com/thegixo)**

@@ -1,12 +1,12 @@
 {
-    "name": "yonce-vsix-theme",
-    "displayName": "Yonce",
-    "description": "Vibrant syntax theme on a dark, flat UI. Queen Bey-inspired. For Visual Studio.",
-    "version": "0.1.0",
-    "publisher": "minamarkham",
+    "name": "yue-theme",
+    "displayName": "Yue",
+    "description": "Vibrant syntax theme on a dark, flat UI. Forked from Yoncé theme.",
+    "version": "1.0.0",
+    "publisher": "gixo",
     "author": {
-        "name": "Mina Markham",
-        "url": "https://github.com/minamarkham"
+        "name": "Gixo",
+        "url": "https://github.com/thegixo"
     },
     "icon": "images/logo.png",
     "preview": true,
@@ -16,13 +16,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/minamarkham/yonce-visual-studio"
+        "url": "https://github.com/thegixo/yue-vscode"
     },
     "bugs": {
-        "url": "https://github.com/minamarkham/yonce-visual-studio/issues"
+        "url": "https://github.com/thegixo/yue-vscode/issues"
     },
-    "homepage": "https://github.com/minamarkham/yonce-visual-studio",
-    "engines": {},
+    "homepage": "https://github.com/thegixo/yue-vscode",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
     "license": "MIT",
     "categories": [
         "Themes"
@@ -32,14 +34,16 @@
         "color-theme",
         "dark",
         "flat",
-        "vibrant"
+        "vibrant",
+        "unreal-engine",
+        "ue"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "Yoncé",
+                "label": "Yue",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Yoncé-color-theme.json"
+                "path": "./themes/yue-color-theme.json"
             }
         ]
     }
