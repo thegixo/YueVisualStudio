@@ -35,12 +35,6 @@ A fork of [Yoncé](https://marketplace.visualstudio.com/items?itemName=minamarkh
 
 _You can test various syntax highlighting in this repo: [https://github.com/uloco/syntax-highlighting-samples](https://github.com/uloco/syntax-highlighting-samples)_
 
-## Recommended Settings
-
-Following extensions/tools are recommended for this theme:
-
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - For file icons. Used in the screenshot.
-
 ## Installation
 * **Recommended:** This theme is available for free in the Visual Studio Marketplace and can be installed by openning manage extensions in Visual Studio and typing `yue`.
 * **Alternative method:** Clone this repo and install using yue.vsix file.
