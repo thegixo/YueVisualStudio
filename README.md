@@ -6,7 +6,7 @@
 
 A fork of [Yoncé](https://marketplace.visualstudio.com/items?itemName=minamarkham.yonce-theme) theme by Mina Markham changed to be more coherent with Unreal Engine's theme.
 
-[![vscode](https://img.shields.io/badge/vscode-v1.27+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_27)
+[![vs](https://img.shields.io/badge/Visual%20Studio-2019+-522189.svg?style=for-the-badge)](https://visualstudio.microsoft.com/downloads/)
 
 </div>
 
