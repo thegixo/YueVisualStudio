@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\theGixo\\Documents\\git\\YueVisualStudio\\theme-designer\\yue-vs-theme\\yue-vs-theme.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\theGixo\\Documents\\git\\YueVisualStudio\\theme-designer\\yue-vs-theme\\yue-vs-theme.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\theGixo\\Documents\\git\\YueVisualStudio\\theme-designer\\yue-vs-theme\\yue-vs-theme.csproj",
+        "projectName": "yue-vs-theme",
+        "projectPath": "C:\\Users\\theGixo\\Documents\\git\\YueVisualStudio\\theme-designer\\yue-vs-theme\\yue-vs-theme.csproj",
+        "packagesPath": "C:\\Users\\theGixo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\theGixo\\Documents\\git\\YueVisualStudio\\theme-designer\\yue-vs-theme\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\theGixo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VisualStudio.VsixColorCompiler": {
+              "target": "Package",
+              "version": "[17.0.31709.430, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

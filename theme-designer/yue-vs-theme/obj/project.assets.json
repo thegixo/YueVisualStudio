@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.VsixColorCompiler.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.VsixColorCompiler.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.VsixColorCompiler.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.VsixColorCompiler.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+      "sha512": "KvWu1c+84BycFK+76LiX/plgtAXQDWq4wjkzqkmTArGwU/pn4BX2XHMQ+eeuNwy2jt8sU9FhG5zpk4yOKDOL8A==",
+      "type": "package",
+      "path": "microsoft.visualstudio.vsixcolorcompiler/17.0.31709.430",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Microsoft.VisualStudio.Pkgdef.dll",
+        "VsixColorCompiler.exe",
+        "VsixColorCompiler.exe.config",
+        "build/Microsoft.VisualStudio.VsixColorCompiler.targets",
+        "microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512",
+        "microsoft.visualstudio.vsixcolorcompiler.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Microsoft.VisualStudio.VsixColorCompiler >= 17.0.31709.430"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\theGixo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\theGixo\\Documents\\git\\YueVisualStudio\\theme-designer\\yue-vs-theme\\yue-vs-theme.csproj",
+      "projectName": "yue-vs-theme",
+      "projectPath": "C:\\Users\\theGixo\\Documents\\git\\YueVisualStudio\\theme-designer\\yue-vs-theme\\yue-vs-theme.csproj",
+      "packagesPath": "C:\\Users\\theGixo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\theGixo\\Documents\\git\\YueVisualStudio\\theme-designer\\yue-vs-theme\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\theGixo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Microsoft.VisualStudio.VsixColorCompiler": {
+            "target": "Package",
+            "version": "[17.0.31709.430, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

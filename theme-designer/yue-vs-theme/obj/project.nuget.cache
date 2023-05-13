@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UYdJSfl6+hf/m9YCOONa1KMiDD2Tp2WX1Pi58VwZ0qEAS3gP5tYHUM9UJOgTdl2dXNDtsnj9aGG6agpfy+xJQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theGixo\\Documents\\git\\YueVisualStudio\\theme-designer\\yue-vs-theme\\yue-vs-theme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theGixo\\.nuget\\packages\\microsoft.visualstudio.vsixcolorcompiler\\17.0.31709.430\\microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512"
+  ],
+  "logs": []
+}
